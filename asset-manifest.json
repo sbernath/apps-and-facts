@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stupid-simple-scores/static/css/main.e6c13ad2.css",
+    "main.js": "/stupid-simple-scores/static/js/main.ebcb7ef6.js",
+    "static/js/787.dbfa21a9.chunk.js": "/stupid-simple-scores/static/js/787.dbfa21a9.chunk.js",
+    "index.html": "/stupid-simple-scores/index.html",
+    "main.e6c13ad2.css.map": "/stupid-simple-scores/static/css/main.e6c13ad2.css.map",
+    "main.ebcb7ef6.js.map": "/stupid-simple-scores/static/js/main.ebcb7ef6.js.map",
+    "787.dbfa21a9.chunk.js.map": "/stupid-simple-scores/static/js/787.dbfa21a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ebcb7ef6.js"
+  ]
+}
